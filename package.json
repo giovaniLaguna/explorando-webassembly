@@ -1,0 +1,11 @@
+{
+  "name": "nodemon-starter",
+  "private": true,
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "watr": "^2.2.5"
+  }
+}
