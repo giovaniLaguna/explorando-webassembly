@@ -1,10 +1,5 @@
 import wat from 'watr';
 
-console.log(`
-  Your random number is: ${Math.random()}
-  (edit any file to auto-restart this script)
-`);
-
 // compile text to binary
 const buffer = wat(`
   (func
